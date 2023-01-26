@@ -1,0 +1,30 @@
+{
+  "name": "sleeping-cat",
+  "version": "1.0.0",
+  "description": "This project is a pure CSS drawing of a cat",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vantsymbalenko/sleeping-cat.git"
+  },
+  "keywords": [
+    "cat",
+    "sleep",
+    "dream",
+    "pure",
+    "css",
+    "html"
+  ],
+  "author": "Ivan Tsymbalenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vantsymbalenko/sleeping-cat/issues"
+  },
+  "homepage": "https://github.com/vantsymbalenko.github.io/sleeping-cat",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
